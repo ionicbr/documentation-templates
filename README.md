@@ -35,7 +35,7 @@ npm test
 Aqui você pode incluir uma descrição sobre você, sobre suas redes sociais github etc...
 * [Maintainer Name](https://github.com/maintainer_github)
 
-## Licensa
+## Licença
 
 [MIT](https://sualicensa.com/license/mit/)
 Relatar aqui o tipo da licensa na qual o projeto tem ex: MIT, GNU, ou qualquer que seja!
