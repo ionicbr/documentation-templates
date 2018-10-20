@@ -16,7 +16,7 @@
 * [Contribua](#Contribua)
   - Subtópicos se necessário
 
-### Requerimentos
+### <a href="#Requerimentos">Requerimentos</a>
 
 Descreva o que a aplicação precisa para funcionar.
 * `ionic x.x`
@@ -26,11 +26,9 @@ Descrever como uma observação **Obs:** o motivo da utilização de cada `lib` 
 
 [Ir para o índice](#Índice)
 
-### Instalação
+### <a href="#Instalação">Instalação</a>
 Passo a passo para instalar a aplicação! Exemplo:
 ```sh
-
 npm install  --save
-
 ```
 [Ir para o índice](#Índice)
