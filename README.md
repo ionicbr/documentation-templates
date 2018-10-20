@@ -52,13 +52,12 @@ Aqui você pode incluir uma descrição sobre você, sobre suas redes sociais et
 [MIT](https://sualicensa.com/license/mit/)
 Relatar aqui o tipo da licensa na qual o projeto tem ex: MIT, GNU, ou qualquer que seja!
 
-**Obs:** Caso o projeto seja pequeno e por algum motivo escolha não usar a `wiki`, pode-se fazer uma breve documentação detalhando pontos importantes em um outro arquivo `Readme.md` seguindo o arquivo [DOC.md](https://github.com/nunesdaniel/documentation-templates/blob/master/DOC.md).
+**Obs:** Caso o projeto seja pequeno e por algum motivo escolha não usar a `wiki`, pode-se fazer uma breve documentação com outros detalhes de instalação e de uso, complementares a descrição exposta nesse arquivo `Readme.md`, detalhando outros pontos importantes, seguindo o arquivo [DOC.md](https://github.com/nunesdaniel/documentation-templates/blob/master/DOC.md) e ir adicionando itens de acordo com a necessidade.
 
 ## Comentários
 Por favor, abra uma [issue](https://github.com/nunesdaniel/documentation-templates/issues) para suporte.
 
 ## Como contribuir
-
 1. git clone (<https://github.com/caminhodorepositorio.git>)
 2. Crie uma branch  (`git checkout -b seunome-alteração`)
 3. Faça Commit das alterações  (`git commit -am 'adicione um comentario sobre as alterações'`)
