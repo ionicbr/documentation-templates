@@ -3,17 +3,17 @@
 > Descrição
 
 ## <a href="#Índice">Índice</a>
-* [Requerimentos](#Requerimentos)
+[Requerimentos](#Requerimentos)
   - Subtópicos se necessário
-* [Instalação](#Instalação)
+[Instalação](#Instalação)
   - Subtópicos se necessário
-* [Uso](#Uso)
+[Uso](#Uso)
   - Subtópicos se necessário
-* [Erros](#Erros)
+[Erros](#Erros)
   - Subtópicos se necessário
-* [Atualizações](#Atualizações)
+[Atualizações](#Atualizações)
   - Subtópicos se necessário
-* [Contribua](#Contribua)
+[Contribua](#Contribua)
   - Subtópicos se necessário
 
 ### <a href="#Requerimentos">Requerimentos</a>
